@@ -1,14 +1,15 @@
-# To-Do List Project
+# To-Do List App
 
-This is a simple to-do list web application made using HTML, CSS, and JavaScript.
+This is a simple web-based To-Do List app built using HTML, CSS, and JavaScript.
 
 ## Features
-- Add tasks
-- Delete tasks
+- Add new tasks
 - Mark tasks as complete
+- Delete tasks
+- Stores tasks in browser using localStorage
 
-## How to Use
-Just open `index.html` in your browser and start using it!
+## How to Run
+Open `index.html` in any browser.
 
-## Demo
-Live site: [Click here](https://yasmeen-mulla-ai.github.io/todo-list)
+## Live Site
+[Click Here](https://yasmeen-mulla-ai.github.io/todo-list/)
